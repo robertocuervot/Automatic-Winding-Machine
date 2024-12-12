@@ -101,8 +101,6 @@ Diagrama de flujo de los pasos que sigue el sistema:
 ## Video en funcionamiento
 [![Video de Funcionamiento](path/to/thumbnail.png)](link/to/video)
 
-Sustituye `path/to/thumbnail.png` con las miniaturas y `link/to/video` con los enlaces a los videos.
-
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 ---
