@@ -37,15 +37,26 @@ La fabricación manual de bobinas es un proceso complejo y lento, especialmente 
 ## Galería de Imágenes
 
 ### Diseño CAD del Sistema
-![Diseño CAD](path/to/cad_image.png)
+![Diseño CAD](Imagenes/Modelo.png)
 
 ### Ensamble Final
-![Ensamble Final](path/to/final_assembly_image.png)
+![Ensamble Final](Imagenes/Montaje.png)
 
-### Diagrama de Flujo del Proceso
-![Diagrama de Flujo](path/to/flowchart_image.png)
+### Montaje electrónico realizado
+![Esquematico](Imagenes/Esquemático.png)
 
-Asegúrate de reemplazar `path/to/image.png` con la ruta a tus imágenes en el repositorio.
+### Diagramas del Proceso
+Comportamiento del sistema en lazo cerrado:
+
+![Diagrama Control](Imagenes/FuncionamientoGeneral.png)
+
+Diagrama de flujo de los pasos que sigue el sistema:
+
+![Diagrama de Flujo](Imagenes/FlujoSistema.png)
+
+### Resultados de embobinado
+![Diseño CAD](Imagenes/Resultados.jpg)
+
 
 ---
 
@@ -53,8 +64,6 @@ Asegúrate de reemplazar `path/to/image.png` con la ruta a tus imágenes en el r
 
 - **Video en funcionamiento:**  
 [![Video de Funcionamiento](path/to/thumbnail.png)](link/to/video)
-- **Resultado embobinado de multiples capas:**  
-[![Video de Pruebas](path/to/thumbnail.png)](link/to/video)
 
 Sustituye `path/to/thumbnail.png` con las miniaturas y `link/to/video` con los enlaces a los videos.
 
