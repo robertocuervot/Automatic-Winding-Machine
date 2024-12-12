@@ -1,8 +1,8 @@
-# Kiubs Winding Machine (KWM)
+# Máquina de Embobinado Automático
 
 ## Descripción del Proyecto
 
-El **Kiubs Winding Machine (KWM)** es una máquina de embobinado automático diseñada para facilitar la construcción de transformadores y bobinas para proyectos de pequeña y mediana escala. Este sistema permite al usuario configurar parámetros clave, como calibre del alambre, número de vueltas, y tipo de bobina, proporcionando un proceso más eficiente, preciso y menos propenso a errores.
+**Kiubs Winding Machine (KWM)** es una máquina de embobinado automático diseñada para facilitar la construcción de transformadores y bobinas para proyectos de pequeña y mediana escala. Este sistema permite al usuario configurar parámetros clave, como calibre del alambre, número de vueltas, y tipo de bobina, proporcionando un proceso más eficiente, preciso y menos propenso a errores.
 
 ---
 
@@ -19,20 +19,6 @@ La fabricación manual de bobinas es un proceso complejo y lento, especialmente 
 - **Configuración flexible:** El usuario puede especificar parámetros como número de vueltas, calibre del cable y velocidad de embobinado.
 - **Interfaz de usuario:** Control sencillo mediante comandos seriales y una máquina de estados finitos.
 - **Diseño modular:** Componentes impresos en 3D, perfiles de aluminio y sistemas de poleas ajustables.
-
----
-
-## Especificaciones Técnicas
-
-- **Rango de calibres soportados:** Alambres desde AWG 25 hasta AWG 36.
-- **Dimensiones de las bobinas:** 
-  - Máximo: Longitud 59 mm, Ancho 59.1 mm.
-  - Mínimo: Longitud 2.5 mm, Ancho 18.7 mm.
-- **Componentes clave:**
-  - Motores NEMA 17 y motor DC con reductor.
-  - Microcontrolador PIC18F46K42.
-  - Sensores como celda de carga con módulo HX711.
-- **Materiales:** Estructura de aluminio tipo V-slot 2020, piezas en PLA impresas en 3D.
 
 ---
 
@@ -65,9 +51,9 @@ Asegúrate de reemplazar `path/to/image.png` con la ruta a tus imágenes en el r
 
 ## Videos del Proyecto
 
-- **Video de funcionamiento completo:**  
+- **Video en funcionamiento:**  
 [![Video de Funcionamiento](path/to/thumbnail.png)](link/to/video)
-- **Pruebas con bobinas circulares y cuadradas:**  
+- **Resultado embobinado de multiples capas:**  
 [![Video de Pruebas](path/to/thumbnail.png)](link/to/video)
 
 Sustituye `path/to/thumbnail.png` con las miniaturas y `link/to/video` con los enlaces a los videos.
