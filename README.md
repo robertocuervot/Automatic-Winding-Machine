@@ -22,6 +22,17 @@ La fabricación manual de bobinas es un proceso complejo y lento, especialmente 
 
 ---
 
+## Especificaciones Técnicas
+
+- **Rango de calibres soportados:** Alambres desde AWG 25 hasta AWG 36.
+- **Componentes clave:**
+  - Motores NEMA 17 y motor DC con reductor.
+  - Microcontrolador PIC18F46K42 (Se utilizó el software MPLAB para su programación).
+  - Sensores como celda de carga con módulo HX711.
+- **Materiales:** Estructura de aluminio tipo V-slot 2020, piezas en PLA impresas en 3D.
+
+---
+
 ## Cómo Usar la Máquina
 
 1. **Configurar los parámetros:** 
@@ -71,10 +82,8 @@ Sustituye `path/to/thumbnail.png` con las miniaturas y `link/to/video` con los e
 
 ## Estructura del Repositorio
 
-- **`/code`:** Código fuente del firmware implementado en el microcontrolador.
-- **`/designs`:** Modelos CAD de la máquina y diagramas de circuito.
-- **`/docs`:** Documentación técnica, incluyendo reportes y manuales.
-- **`/tests`:** Resultados de las pruebas realizadas y scripts de validación.
+- **`Proyecto_MPLAB/Emobinadora_Control.X`:** Proyecto MPLAB que contiene la programación del microcontrolador.
+- **`/Imagenes`:** Modelos CAD de la máquina, diagramas e imagenes del proyecto.
 
 ---
 
@@ -91,12 +100,12 @@ Sustituye `path/to/thumbnail.png` con las miniaturas y `link/to/video` con los e
 
 Este proyecto fue desarrollado por:
 
-- **María Alejandra Amaya Mejía** (amaya_maria@javeriana.edu.co)  
-- **Roberto Andrés Cuervo Torres** (ra.cuervo@javeriana.edu.co)  
+- **María Alejandra Amaya Mejía** (amaya_maria@javeriana.edu.co)   
 - **Karen Vanessa Wilches Beltrán** (karenv-wilchesb@javeriana.edu.co)
+- **Roberto Andrés Cuervo Torres** (ra.cuervo@javeriana.edu.co) 
 
 ---
 
 ## Licencia
 
-Este proyecto se encuentra bajo la licencia [MIT](LICENSE), lo que permite su uso, modificación y distribución para fines académicos y comerciales. 
+Este proyecto se encuentra bajo la licencia [GNU General Public License v3.0](LICENSE).
