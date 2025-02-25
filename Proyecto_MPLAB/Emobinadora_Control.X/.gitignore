@@ -1,5 +1,8 @@
 # .gitignore file
 
+# Zip files
+*.zip
+
 # MPLAB X IDE (Netbeans) specific
 **/*.X/~*.*
 **/*.X/build/
